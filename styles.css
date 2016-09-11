@@ -29,6 +29,10 @@ h1 {
 	color:white;
 }
 
+.nobullets {
+ list-style: none;
+}
+
 nav {
   background-color: #527c8e;
   width:100%;
