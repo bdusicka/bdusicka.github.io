@@ -1,0 +1,69 @@
+body { 
+  padding-top: 70px; 
+}
+
+section {
+  padding-top: 70px;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 30px;
+}
+
+nav {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#Intro {
+  background-color: #ff0000;
+}
+
+#C1 {
+  background-color: #ff9933;
+}
+
+#C2 {
+  background-color: #ffff66;
+}
+
+#C3 {
+  background-color: #66ff33;
+}
+
+#C4 {
+  background-color: #3399ff;
+}
+
+#C5 {
+  background-color: #3333cc;
+}
+
+#Conclusion {
+  background-color: #9900cc;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+
+li {
+  font-size: 35px;
+}
+
+td {
+  font-size: 35px;
+}
+
+th {
+  font-size: 35px;
+}
