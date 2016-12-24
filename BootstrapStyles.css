@@ -4,15 +4,15 @@ body {
 
 section {
   padding-top: 70px;
-  padding-left: 250px;
-  padding-right: 250px;
+  padding-left: 225px;
+  padding-right: 225px;
   padding-bottom: 30px;
 }
 
 nav {
   padding-left: 50px;
   padding-right: 50px;
-  font-size:20px;  
+  font-size:25px;  
 }
 
 #Intro {
@@ -56,27 +56,27 @@ nav {
 }
 
 h1 {
-  font-size: 75px;
-}
-
-h2 {
   font-size: 60px;
 }
 
+h2 {
+  font-size: 50px;
+}
+
 p {
-  font-size: 35px;
+  font-size: 30px;
   padding-top: 10px;
   padding-bottom: 10px
 }
 
 li {
-  font-size: 35px;
+  font-size: 30px;
 }
 
 td {
-  font-size: 35px;
+  font-size: 25px;
 }
 
 th {
-  font-size: 35px;
+  font-size: 30px;
 }
