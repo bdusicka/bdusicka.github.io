@@ -36,10 +36,22 @@ nav {
 
 #C5 {
   background-color: #3333cc;
+  color:  #d0d3e8;
 }
 
 #Conclusion {
+  color: #ffffe6;
   background-color: #9900cc;
+}
+
+#Dolphin {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#MrBob {
+  background-color: #c9972a;
 }
 
 h1 {
